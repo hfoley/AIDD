@@ -1,0 +1,2 @@
+# AIDD
+AI Discovery Day
